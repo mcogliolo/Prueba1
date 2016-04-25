@@ -46,7 +46,7 @@ public class CalculadoraTest {
 		
 		Double resEspDiv = 1.5;
 		
-		Assert.assertEquals("El res obtenido es: " + resultadoDiv, resEspDiv, resultadoDiv);
+		Assert.assertEquals("El resto obtenido es: " + resultadoDiv, resEspDiv, resultadoDiv);
 		
 	}
 	
